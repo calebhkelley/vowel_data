@@ -159,3 +159,4 @@ This script is designed for research examining:
 ## Citation
 
 If using this script in research, please cite appropriately and acknowledge any modifications made for your specific study.
+Kelley, C. H. (2025). Praat vowel extraction script for Spanish sociophonetic analysis [Computer software]. https://github.com/calebhkelley/repository
